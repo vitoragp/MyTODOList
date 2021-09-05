@@ -8,4 +8,4 @@ O projeto consiste em um aplicativo para gerenciar uma lista de tarefas, desenvo
 
 ### **Telas**
 
-![alt text](https://github.com/vitoragp/MyTODOList/blob/main/Screens.jpg?raw=true)
+![alt text](https://github.com/vitoragp/MyTODOList/blob/master/Screens.jpg?raw=true)
